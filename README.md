@@ -53,6 +53,6 @@ Hướng dẫn chạy
 1. Mở file notebook `tran_thanhngan_grade_the_exams`
 2. Chạy toàn bộ cell trong notebook
 3. Khi được yêu cầu nhập, nhập tên lớp (VD: class1, không cần `.txt`)
-4. Xem kết quả trên màn hình và trong file xuất ra
+4. Xem kết quả trên màn hình và trong file xuất ra.
 **Lưu ý**: Đảm bảo file notebook và các file dữ liệu nằm cùng thư mục.
 ---
